@@ -7,10 +7,10 @@
 $(call inherit-product, device/razer/aura/device.mk)
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/palladium/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := lineage_aura
+PRODUCT_NAME := palladium_aura
 PRODUCT_DEVICE := aura
 PRODUCT_BRAND := razer
 PRODUCT_MODEL := Phone 2

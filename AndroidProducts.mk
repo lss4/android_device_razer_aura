@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_aura.mk
+    $(LOCAL_DIR)/palladium_aura.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_aura-user \
-    lineage_aura-userdebug \
-    lineage_aura-eng
+    palladium_aura-user \
+    palladium_aura-userdebug \
+    palladium_aura-eng
