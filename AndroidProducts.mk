@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_aura.mk
+    $(LOCAL_DIR)/evolution_aura.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_aura-user \
-    lineage_aura-userdebug \
-    lineage_aura-eng
+    evolution_aura-user \
+    evolution_aura-userdebug \
+    evolution_aura-eng
